@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HUST-ZSG
-- 👀 I’m interested in CS
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on game
 - 📫 My email : 1216113224@qq.com
 
 <!---
